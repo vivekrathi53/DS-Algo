@@ -1,1 +1,2 @@
-This repo contain algo and template which are required in competitive coding.
+# Hacktoberfest-Pull-Requests
+This respository is for making hacktober pull requests
